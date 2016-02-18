@@ -4,7 +4,7 @@ Simple Python script to analyze a folder and detect encrypted blobs in it.
 
 ## How to
 
-Just copy the `junk-detector.py` into a folder you want to analyze and run `python junk-detector.py`. By default, it will analyze every file in every subdirectory. It currently supports two alphabets: English alphabet and the Russian alphabet.
+Just copy the `junk-detector.py` into a folder you want to analyze and run `python junk-detector.py`. By default, it will analyze every file in every subdirectory. It currently supports two alphabets: English alphabet and the Russian alphabet. If you need to analyze some other alphabet, feel free to [report an issue](https://github.com/aleksandar-todorovic/junk-detector.py/issues/new).
 
 ## Options
 
@@ -31,4 +31,4 @@ Note that, by default, the script completely ignores the following characters: `
 
 ## License
 
-This script is licensed under the [MIT license](https://github.com/aleksandar-todorovic/junk-detector/blob/master/LICENSE).
+This script is licensed under the [MIT license](https://github.com/aleksandar-todorovic/junk-detector.py/blob/master/LICENSE).
